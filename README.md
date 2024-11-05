@@ -6,25 +6,11 @@ Este repositório contém as soluções de 25 questões de Programação Orienta
 
 ## Descrição
 
-As questões abordam conceitos fundamentais de Programação Orientada a Objetos, como:
+Este repositório é focado em iniciantes em Java e Programação Orientada a Objetos (POO). As atividades envolvem a resolução de problemas matemáticos simples utilizando os conceitos fundamentais da POO. O objetivo é aplicar técnicas de organização e estruturação de código através de classes, objetos, atributos e métodos, que são os principais componentes da POO.
 
-- **Encapsulamento**
-- **Herança**
-- **Polimorfismo**
-- **Abstração**
-- **Classes e Objetos**
-- **Métodos e Construtores**
+A POO é um modelo de programação que facilita a construção de programas mais organizados e reutilizáveis. Em vez de escrever um código longo e desorganizado, você aprende a dividir o problema em "objetos", cada um com suas responsabilidades bem definidas. No caso dessas atividades, você usará esse modelo para resolver problemas matemáticos como somar, subtrair, multiplicar, dividir, entre outros.
 
-Cada exercício foi elaborado para reforçar a aplicação prática desses conceitos em Java, com o objetivo de consolidar o aprendizado e a compreensão da POO.
+## Objetivo
 
-## Objetivos do Repositório
+O objetivo deste repositório é proporcionar um ambiente de aprendizado onde você possa aplicar os conceitos básicos de POO para resolver problemas matemáticos. Através dessas atividades, você entenderá como utilizar a Programação Orientada a Objetos para tornar o código mais claro, organizado e fácil de manter.
 
-Este repositório tem como principal objetivo oferecer aos alunos um ambiente de prática para os principais pilares da Programação Orientada a Objetos. Ao longo das 25 questões, os alunos terão a oportunidade de:
-
-- Criar e manipular **classes** e **objetos**.
-- Aplicar os conceitos de **herança**, **polimorfismo** e **encapsulamento**.
-- Resolver problemas práticos utilizando os fundamentos de POO.
-
-## Conteúdo
-
-Este repositório é composto por 25 questões, cada uma implementada em Java. Cada arquivo de código contém a solução para um problema específico, e as implementações foram feitas com base nos conceitos teóricos vistos na disciplina.
